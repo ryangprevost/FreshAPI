@@ -1,5 +1,8 @@
 # FreshAPI — .NET 10 Web API Starter Kit
 
+> 🚀 **Get the packaged release** — source ZIP + video walkthrough on Gumroad:
+> > **[springtide4.gumroad.com/l/freshapi](https://springtide4.gumroad.com/l/freshapi)** ($29)
+
 A production-grade starting point for building Web APIs with **Clean Architecture** on **.NET 10**.
 Skip the boilerplate: solution structure, EF Core data access, MediatR pipeline with validation,
 JWT authentication, Serilog logging, health checks, Docker, and CI pipelines — all wired up and working.
@@ -203,4 +206,4 @@ Swashbuckle · xUnit · NSubstitute · SQL Server · Docker
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Replace the copyright holder with your name.
+Proprietary single-purchase license — see [LICENSE](LICENSE). You may use and modify FreshAPI in your own projects, including client work. Redistribution, resale, or republication of the template itself is not allowed.
