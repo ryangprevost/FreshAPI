@@ -1,7 +1,7 @@
 # FreshAPI — .NET 10 Web API Starter Kit
 
 > 🚀 **Get the packaged release** — source ZIP + video walkthrough on Gumroad:
-> > **[springtide4.gumroad.com/l/freshapi](https://springtide4.gumroad.com/l/freshapi)** ($29)
+> > **[off7spring.gumroad.com/l/freshapi](https://off7spring.gumroad.com/l/freshapi)** ($29)
 
 A production-grade starting point for building Web APIs with **Clean Architecture** on **.NET 10**.
 Skip the boilerplate: solution structure, EF Core data access, MediatR pipeline with validation,
